@@ -34,7 +34,7 @@ abstract: Unlike classical fluids, a quantum Fermi liquid can support a long-liv
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: 'files/Khoo2020.pdf'
+url_pdf: 'files/Khoo2020.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
