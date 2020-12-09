@@ -1,5 +1,5 @@
 ---
-title: Internal Project
+title: Novel probes of collective excitations
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
