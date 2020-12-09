@@ -1,6 +1,6 @@
 ---
 title: Polaron dynamics
-summary: An example of using the in-built project page.
+summary: We are interested in the dynamics of polarons in condensed matter and cold atomic systems. In particular, we study nonequilibrium phenomena such as polaron drag, a novel form of Coulomb drag mediated by nonperturbative interactions or metastable polaron states that can enable lasing.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: An exciton sourrounded by an electronic polarization cloud
   focal_point: Smart
 
 #links:
