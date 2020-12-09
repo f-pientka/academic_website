@@ -4,8 +4,8 @@ authors:
 - Jun Yong Khoo
 - Po-Yao Chang
 - admin
--  Inti Sodemann
-author_notes:
+- Inti Sodemann
+# author_notes:
 date: "2020-08-31T00:00:00Z"
 doi: ""
 
@@ -64,4 +64,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
 {{% staticref "files/Khoo2020.pdf" %}}pdf{{% /staticref %}}
