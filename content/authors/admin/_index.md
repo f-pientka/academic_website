@@ -21,7 +21,7 @@ interests:
 - Nonequilibrium dynamics
 - Motivated by experiments
 
-academic:
+academic
   courses:
   - course: Distinguished PKS Postdoctoral Fellow
     institution: Max Planck Institute for the Physics of Complex Systems
