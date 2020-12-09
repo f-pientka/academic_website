@@ -16,10 +16,9 @@ organizations:
 bio: My research focuses on quantum many-body physics, especially quantum transport in low-dimensional or mesoscopic systems.
 
 interests:
-- Unconventional quantum transport phenomena
+- Quantum transport
 - Topological states of matter
 - Nonequilibrium dynamics
-- Motivated by experiments
 
 education:
   courses:
@@ -69,6 +68,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Im am a professor of theoretical condensed matter physics at Goethe University Frankfurt. I work on quantum many-body physics, particularly in one or two dimensions or on mesoscopic scales (~10 nm to microns). My research interests include well-known states of matter like Fermi liquids or superconductors as well as more exotic ones such as topological phases or spin liquids. I often try to understand a system through the properties of the relevant low-energy excitations, for instance, Majorana quasiparticles in topological superconductors, exciton polaritons in semiconducty microcavity systems, or electronic shear sound in Fermi liquids. My work is often directly motivated by experiments or tries to propose novel experiments. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
