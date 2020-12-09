@@ -68,7 +68,7 @@ user_groups:
 - Visitors
 ---
 
-I am a professor of theoretical condensed matter physics at Goethe University Frankfurt. I work on quantum many-body physics, particularly in one or two dimensions or on mesoscopic scales (~10 nm to microns). My research interests include well-known states of matter like Fermi liquids or superconductors as well as more exotic ones such as topological phases or spin liquids. 
+I work on quantum many-body physics, particularly in one or two dimensions or on mesoscopic scales (~10 nm to microns). My research interests include well-known states of matter like Fermi liquids or superconductors as well as more exotic ones such as topological phases or spin liquids. 
 
 I often try to understand a system through the properties of the relevant low-energy excitations, for instance, Majorana quasiparticles in topological superconductors, exciton polaritons in semiconducty microcavity systems, or electronic shear sound in Fermi liquids. My work is often directly motivated by experiments or tries to propose novel experiments. 
 
