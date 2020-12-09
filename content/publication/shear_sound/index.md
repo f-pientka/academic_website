@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. B 102, 085437"
+publication: "Phys. Rev. B **102**, 085437 (2020)"
 #publication_short: "Phys. Rev. B 102, 085437"
 
 abstract: Unlike classical fluids, a quantum Fermi liquid can support a long-lived and propagating shear sound wave at arbitrarily small wave vectors and frequencies, reminiscent of the transverse sound in crystals, despite lacking any form of long-range crystalline order. This mode is expected to be present in moderately interacting metals where the quasiparticle mass is renormalized to be more than twice the bare mass in two dimensions (2D), but it has remained undetected because it is hard to excite since it does not involve charge density fluctuations, in contrast to the conventional plasma mode. In this work we propose a strategy to excite and detect this unconventional mode in clean metallic channels. We show that the shear sound is responsible for the appearance of sharp dips in the ac conductance of narrow channels at resonant frequencies matching its dispersion. The liquid resonates while minimizing its dissipation in an analogous fashion to a sliding crystal. Ultraclean 2D materials that can be tuned toward the Wigner crystallization transition such as silicon metal-oxide-semiconductor field-effect transistors, MgZnO/ZnO, p-GaAs, and AlAs quantum wells are promising platforms to experimentally discover the shear sound.
