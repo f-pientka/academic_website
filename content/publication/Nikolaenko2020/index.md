@@ -31,7 +31,7 @@ tags:
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://arxiv.org/pdf/2009.14221
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
