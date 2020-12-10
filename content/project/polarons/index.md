@@ -1,15 +1,15 @@
 ---
 title: Polaron dynamics
-summary: We are interested in the dynamics of polarons in condensed matter and cold atomic systems. In particular, we study nonequilibrium phenomena such as polaron drag, a novel form of Coulomb drag mediated by nonperturbative interactions or metastable polaron states that can enable lasing.
+summary: Dynamics of polarons in condensed matter and cold atomic systems, in particular, nonequilibrium phenomena such as polaron drag, a novel form of Coulomb drag mediated by nonperturbative interactions or metastable polaron states that can enable lasing.
 tags:
-- Deep Learning
+#- Deep Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: An exciton sourrounded by an electronic polarization cloud
+  caption: An exciton surrounded by an electronic polarization cloud
   focal_point: Smart
 
 #links:
@@ -29,3 +29,7 @@ image:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+
+Strong interactions in certain semiconductors lead to tightly bound excitons, which are strongly coupled to fluctuations of the Fermi sea forming Fermi polarons, a phenomenon closely related to a Feshbach resonance and the crossover between Bose–Einstein condensates and BCS superfluids in atomic physics. The large tunability of the excitons may enable such phenomena in a condensed-matter setup. Moreover, coupling to light may lead to intriguing nonequilibrium effects and applications in optoelectronics or quantum optics such as a Hall effect of photons.
+
+From a broader perspective, studying dressed excitons as a relatively simple strongly interacting model system may ultimately lead to a better understanding of strong correlation effects in solids.
