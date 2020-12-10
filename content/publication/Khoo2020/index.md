@@ -31,9 +31,9 @@ abstract: Unlike classical fluids, a quantum Fermi liquid can support a long-liv
 #- Source Themes
 #featured: false
 
- links:
- - name: "PRB"
-   url: "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.085437"
+links:
+- name: PRB
+  url: "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.085437"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
