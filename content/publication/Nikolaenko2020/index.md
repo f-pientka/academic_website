@@ -16,7 +16,7 @@ publishDate: "2020-09-29T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "arXiv:2009.14221"
 publication_short: ""
 
 abstract: One-dimensional systems proximity-coupled to a superconductor can be driven into a topological superconducting phase by an external magnetic field. Here, we investigate the effect of vortices created by the magnetic field in a type-II superconductor providing the proximity effect. We identify different ways in which the topological protection of Majorana modes can be compromised and discuss strategies to circumvent these detrimental effects. Our findings are also relevant to topological phases of proximitized quantum Hall edge states. 
@@ -29,8 +29,8 @@ tags:
 #featured: false
 
 links:
-#- name: Custom Link
-#  url: http://example.org
+- name: arXiv
+  url: https://arxiv.org/abs/2009.14221
 url_pdf: ''
 url_code: ''
 url_dataset: ''
