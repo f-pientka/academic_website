@@ -30,6 +30,10 @@ image:
 # slides: example
 ---
 
-Strong interactions in certain semiconductors lead to tightly bound excitons, which are strongly coupled to fluctuations of the Fermi sea forming Fermi polarons, a phenomenon closely related to a Feshbach resonance and the crossover between Bose–Einstein condensates and BCS superfluids in atomic physics. The large tunability of the excitons may enable such phenomena in a condensed-matter setup. Moreover, coupling to light may lead to intriguing nonequilibrium effects and applications in optoelectronics or quantum optics such as a Hall effect of photons.
+Polarons occur when a quantum impurity moving through a bath gets dressed by excitations of the bath. Studying polarons as a relatively simple strongly interacting model system may ultimately lead to a better understanding of strong correlation effects in solids. I am interested in polaron physics in various different contexts.
 
-From a broader perspective, studying dressed excitons as a relatively simple strongly interacting model system may ultimately lead to a better understanding of strong correlation effects in solids.
+- Strong interactions in certain semiconductors lead to tightly bound excitons, which are strongly coupled to fluctuations of the Fermi sea forming Fermi polarons. The large tunability of the excitons may enable such phenomena in a condensed-matter setup. Moreover, coupling to light may lead to intriguing nonequilibrium effects and applications in optoelectronics or quantum optics such as a Hall effect of photons. 
+
+- The prototypical example of a polaron is an electron interacting with phonons in a crystal. In this context, I will study the influence of polaronic dressing on the dynamics, e.g., as measured in pump-probe techniques. This project is embedded in the [CRC/TRR 288 "Elastic Tuning and Response of Electronic Quantum Phases of Matter"](https://transregio288.org).
+
+- Polarons can be studied as individual particles in cold atom experiments. Polarons are closely related to the physics of Feshbach resonances and the crossover between Bose–Einstein condensates and BCS superfluids. I am interested in the dynamical properties of polarons in out-of-equilibrium experiments.
