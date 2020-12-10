@@ -31,9 +31,9 @@ abstract: Unlike classical fluids, a quantum Fermi liquid can support a long-liv
 #- Source Themes
 #featured: false
 
-# links:
-# - name: ""
-#   url: ""
+ links:
+ - name: "PRB"
+   url: "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.085437"
 url_pdf: 'files/Khoo2020.pdf'
 url_code: ''
 url_dataset: ''
@@ -64,5 +64,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% staticref "files/Khoo2020.pdf" %}}pdf{{% /staticref %}}
