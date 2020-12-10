@@ -30,4 +30,5 @@ image:
 # slides: example
 ---
 
-We study superconducting hybrid materials that can support topological superconducting phases. We try to find a more realistic microscopic description of the proximity effect, e.g., in quantum wires or 2d Josephson junctions. We also investigate unconventional Josephson effects in magnetic Josephson junctions, e.g., with a ground state at nonzero phase difference.
+Superconducting hybrid materials, e.g., combining semiconductors, supercondcutors and magnetism, can host topological superconducting phases with Majorana edge modes. Majorana 
+In order to improve our understanding of experimental challenges, we try to find a more realistic microscopic description of the proximity effect, e.g., in quantum wires or 2d Josephson junctions. We also investigate unconventional Josephson effects in magnetic Josephson junctions, e.g., with a ground state at nonzero phase difference.
