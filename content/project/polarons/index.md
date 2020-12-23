@@ -2,6 +2,7 @@
 title: Polaron dynamics
 summary: We try to understand dynamical phenomena of polarons in condensed matter and cold atomic systems such as polaron drag (a novel form of Coulomb drag mediated by nonperturbative interactions) or metastable polaron states that can enable lasing.
 tags:
+- Polarons
 #- Deep Learning
 date: "2016-04-27T00:00:00Z"
 
