@@ -42,7 +42,7 @@ abstract: Topological superconductors can support localized Majorana states at t
 
 links:
 - name: Nature
-  url: "https://www.nature.com/articles/s41586-019-1148-9"
+  url: https://www.nature.com/articles/s41586-019-1148-9
 url_pdf: ''
 url_code: ''
 url_dataset: ''
