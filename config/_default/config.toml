@@ -20,7 +20,7 @@ copyright = ""
 ## Advanced options below ##
 ############################
 
-publishDir = "public_html"
+publishDir = "public"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
