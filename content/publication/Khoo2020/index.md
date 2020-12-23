@@ -27,7 +27,8 @@ abstract: Unlike classical fluids, a quantum Fermi liquid can support a long-liv
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-#tags:
+tags:
+- Fermi liquid
 #- Source Themes
 #featured: false
 
