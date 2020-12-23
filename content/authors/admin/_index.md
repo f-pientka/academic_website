@@ -64,5 +64,5 @@ user_groups:
 
 I am interested in quantum many-body systems, particularly in one or two dimensions or on mesoscopic scales (~10 nm to microns). My research addresses well-known states of matter like Fermi liquids and superconductors as well as more exotic ones such as topological insulators and spin liquids. 
 
-I often try to understand a system through the properties of the relevant low-energy excitations, for instance, Majorana quasiparticles in topological superconductors, exciton polaritons in semiconducty microcavity systems, or electronic shear sound in Fermi liquids. My work is often directly motivated by experiments or tries to propose novel ways of detecting physical phenomena. 
+I often try to understand a system through the properties of the relevant low-energy excitations, for instance, Majorana quasiparticles in topological superconductors, exciton polaritons in semiconductor microcavity systems, or electronic shear sound in Fermi liquids. My work is often directly motivated by experiments or tries to propose novel ways of detecting physical phenomena. 
 
