@@ -25,6 +25,7 @@ abstract: One-dimensional systems proximity-coupled to a superconductor can be d
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
+- Topological Superconductors
 #- Source Themes
 #featured: false
 
