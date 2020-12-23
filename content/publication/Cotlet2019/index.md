@@ -24,17 +24,7 @@ publication_types: ["2"]
 publication: "Phys. Rev. X **9**, 041019 (2019)"
 #publication_short: "Phys. Rev. X 9, 041019"
 
-abstract: Mobile quantum impurities interacting with a fermionic bath form quasiparticles known as Fermi
-polarons. We demonstrate that a force applied to the bath particles can generate a drag force of similar
-magnitude acting on the impurities, realizing a novel, nonperturbative Coulomb drag effect. To prove this,
-we calculate the fully self-consistent, frequency-dependent transconductivity at zero temperature in the
-Baym-Kadanoff conserving approximation. We apply our theory to excitons and exciton polaritons
-interacting with a bath of charge carriers in a doped semiconductor embedded in a microcavity. In external
-electric and magnetic fields, the drag effect enables electrical control of excitons and may pave the way for
-the implementation of gauge fields for excitons and polaritons. Moreover, a reciprocal effect may facilitate
-optical manipulation of electron transport. Our findings establish transport measurements as a novel,
-powerful tool for probing the many-body physics of mobile quantum impurities.
-
+abstract: Mobile quantum impurities interacting with a fermionic bath form quasiparticles known as Fermi polarons. We demonstrate that a force applied to the bath particles can generate a drag force of similar magnitude acting on the impurities, realizing a novel, nonperturbative Coulomb drag effect. To prove this, we calculate the fully self-consistent, frequency-dependent transconductivity at zero temperature in the Baym-Kadanoff conserving approximation. We apply our theory to excitons and exciton polaritons interacting with a bath of charge carriers in a doped semiconductor embedded in a microcavity. In external electric and magnetic fields, the drag effect enables electrical control of excitons and may pave the way for the implementation of gauge fields for excitons and polaritons. Moreover, a reciprocal effect may facilitate optical manipulation of electron transport. Our findings establish transport measurements as a novel, powerful tool for probing the many-body physics of mobile quantum impurities.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
