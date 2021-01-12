@@ -4,7 +4,7 @@ summary: We try to understand dynamical phenomena of polarons in condensed matte
 tags:
 - Polarons
 #- Deep Learning
-date: "2016-04-27T00:00:00Z"
+# date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
