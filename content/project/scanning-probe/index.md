@@ -3,7 +3,7 @@ title: Novel probes of collective excitations
 summary: We propose ways to experimentally characterize excitations in many-body systems, which are inaccesible in standard transport or spectroscopy experiments, e.g., using near-field techniques or NV centers in diamond.
 tags:
 #- Deep Learning
-date: "2016-04-27T00:00:00Z"
+# date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
