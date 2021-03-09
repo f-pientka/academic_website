@@ -34,7 +34,7 @@ abstract: Mobile quantum impurities interacting with a fermionic bath form quasi
 #featured: false
 
 links:
-- name: PRB
+- name: PRX
   url: "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.041019"
 url_pdf: ''
 url_code: ''
