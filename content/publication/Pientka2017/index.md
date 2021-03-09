@@ -25,7 +25,7 @@ publication: "Phys. Rev. Lett. **119**,  027601 (2017)"
 abstract: In the half filled zero-energy Landau level of bilayer graphene, competing phases with spontaneously
 broken symmetries and an intriguing quantum critical behavior have been predicted. Here we investigate
 signatures of these broken-symmetry phases in thermal transport measurements. To this end, we calculate
-the spectrum of spin and valley waves in the ν=0 quantum Hall state of bilayer graphene. The presence of
+the spectrum of spin and valley waves in the nu=0 quantum Hall state of bilayer graphene. The presence of
 Goldstone modes enables heat transport even at low temperatures, which can serve as compelling evidence
 for spontaneous symmetry breaking. By varying external electric and magnetic fields, it is possible to
 determine the nature of the symmetry breaking. Temperature-dependent measurements may yield
