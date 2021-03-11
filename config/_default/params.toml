@@ -93,7 +93,7 @@ phone = "+49-69-798-47358"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = | " | Institut für Theoretische Physik
+address = {street = " | Institut für Theoretische Physik
 
 Goethe-Universität
 
