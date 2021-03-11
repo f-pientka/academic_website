@@ -2,7 +2,7 @@
 en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
 en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
 de = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
-my-de = {order = ['street', 'street2', 'postcode', 'city'], delimiters = ['<br>', '<br>', ' ', '']}
+my-de = {order = ['street', 'streettwo', 'postcode', 'city'], delimiters = ['<br>', '<br>', ' ', '']}
 fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
 zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
 pt-br = {order = ['street', 'city', 'region', 'postcode', 'country'], delimiters = ['<br>', ', ', '<br>', '<br>']}
