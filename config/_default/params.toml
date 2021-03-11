@@ -93,9 +93,8 @@ phone = "+49-69-798-47358"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = ["""Institut für Theoretische Physik,
-Goethe-Universität,
-Max-von-Laue-Str. 1"""], streettwo = """Goethe-Universität""", city = "Frankfurt am Main", region = "abc", postcode = "60438", country = "Germany", country_code = "DE"}
+address = {street = """Institut für Theoretische Physik""", city = "Goethe-Universität", 
+postcode = "Max-von-Laue-Str. 1", country = "60438 Frankfurt am Main", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
